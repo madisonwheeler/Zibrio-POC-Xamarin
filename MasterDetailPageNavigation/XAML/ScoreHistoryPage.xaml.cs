@@ -2,9 +2,9 @@
 
 namespace MasterDetailPageNavigation
 {
-	public partial class ContactsPage : ContentPage
+	public partial class ScoreHistoryPage : ContentPage
 	{
-		public ContactsPage ()
+		public ScoreHistoryPage()
 		{
 			InitializeComponent ();
 		}

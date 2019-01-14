@@ -9,7 +9,7 @@
 	<MasterDetailPage.Detail>
 		<NavigationPage>
 			<x:Arguments>
-				<local:ContactsPage />
+				<local:ScoreHistoryPage />
 			</x:Arguments>
 		</NavigationPage>
 	</MasterDetailPage.Detail>

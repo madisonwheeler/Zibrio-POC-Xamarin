@@ -2,15 +2,15 @@
 
 namespace MasterDetailPageNavigation
 {
-	public class ContactsPageCS : ContentPage
+	public class ScoreHistoryCS : ContentPage
 	{
-		public ContactsPageCS ()
+		public ScoreHistoryCS ()
 		{
-			Title = "Contacts Page";
+			Title = "Score History";
 			Content = new StackLayout { 
 				Children = {
 					new Label {
-						Text = "Contacts data goes here",
+						Text = "Score history data goes here",
 						HorizontalOptions = LayoutOptions.Center,
 						VerticalOptions = LayoutOptions.CenterAndExpand
 					}

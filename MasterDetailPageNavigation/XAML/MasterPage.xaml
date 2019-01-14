@@ -10,7 +10,7 @@
         <ListView x:Name="listView" x:FieldModifier="public">
            <ListView.ItemsSource>
                 <x:Array Type="{x:Type local:MasterPageItem}">
-                    <local:MasterPageItem Title="Contacts" IconSource="contacts.png" TargetType="{x:Type local:ContactsPage}" />
+                    <local:MasterPageItem Title="Score History" IconSource="contacts.png" TargetType="{x:Type local:ScoreHistoryPage}" />
                     <local:MasterPageItem Title="TodoList" IconSource="todo.png" TargetType="{x:Type local:TodoListPage}" />
                     <local:MasterPageItem Title="Reminders" IconSource="reminders.png" TargetType="{x:Type local:ReminderPage}" />
                 </x:Array>

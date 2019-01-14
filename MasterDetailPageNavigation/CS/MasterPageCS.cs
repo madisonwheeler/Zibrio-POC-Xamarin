@@ -16,7 +16,7 @@ namespace MasterDetailPageNavigation
             {
                 Title = "Contacts",
                 IconSource = "contacts.png",
-                TargetType = typeof(ContactsPageCS)
+                TargetType = typeof(ScoreHistoryCS)
             });
             masterPageItems.Add(new MasterPageItem
             {
