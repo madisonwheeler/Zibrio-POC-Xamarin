@@ -1,4 +1,0 @@
-MonoTouch: Could not install sigaction override, unexpected sigaction implementation.
-2019-01-14 13:22:48.601465-0500 MasterDetailPageNavigationiOS[13733:1985053] Xamarin.iOS: Socket error while connecting to IDE on 127.0.0.1:10000: Connection refused
-2019-01-14 13:22:51.700270-0500 MasterDetailPageNavigationiOS[13733:1985000] SecTaskLoadEntitlements failed error=22 cs_flags=200, pid=13733
-2019-01-14 13:22:51.700444-0500 MasterDetailPageNavigationiOS[13733:1985000] SecTaskCopyDebugDescription: MasterDetailPage[13733]/0#-1 LF=0
