@@ -11,7 +11,7 @@ namespace MasterDetailPageNavigation
         {
             masterPage = new MasterPageCS();
             Master = masterPage;
-            Detail = new NavigationPage(new ScoreHistoryCS());
+            Detail = new NavigationPage(new ScoreHistoryPage());
 
             masterPage.ListView.ItemSelected += OnItemSelected;
 
